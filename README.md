@@ -39,6 +39,17 @@ chmod +x kube-prompt
 sudo mv ./kube-prompt /usr/local/bin/kube-prompt
 ```
 
+#### Snap (Ubuntu)
+
+```console
+$ sudo snap install kube-prompt
+```
+
+Master branch build:
+```console
+$ sudo snap install kube-prompt-latest
+```
+
 #### Homebrew (macOS)
 
 ```console
